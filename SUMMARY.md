@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [Official Stable Swiss Wiki](official-stable-swiss-wiki.md)
-* [FAQ](faq.md)
-* [page 1](page-1-1.md)
+* [Official StableSwiss Documentation](README.md)
+* [Governance Structure](governance-structure.md)
+* [Collateral Types](collateral-types.md)
+* [Price Stability Mechanism](price-stability-mechanism.md)
+* [Minting and Redemption Process](minting-and-redemption-process.md)
+* [Architecture](architecture.md)

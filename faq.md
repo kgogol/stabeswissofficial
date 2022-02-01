@@ -1,7 +1,0 @@
-# FAQ
-
-asdasd
-
-adasd
-
-asdas
