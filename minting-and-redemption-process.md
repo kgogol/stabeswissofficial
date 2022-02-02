@@ -2,21 +2,23 @@
 
 The minting and voluntary redemption processes for Swiss Stable Coin sCCY follow the general process of on-chain collateralized stablecoins. The innovation is applied in the forced redemption processes.
 
-6.1 Minting
+## Minting
 
-The Protocol gives a loan for a specified period of time to sCCY creators, who provide collateral as a security. The process is depicted in the figure 4.
+The Protocol gives a loan for a specified period of time to sCCY creators, who provide collateral as a security. The process is depicted in the figure.
 
-6.2 Redemption
+![](.gitbook/assets/Screen\_Shot\_2022-01-13\_at\_14.53.18.png)
 
-The Stablecoin creator returns the loan inclusive interest rates and gets his collateral back. The process of the voluntary redemption is depicted in the figure 5.
+## Redemption
 
-The processes of the forced redemption are depicted in the figure 11 (vault collateralization is below 110%) and 12 (overall collateralization of the Protocol is below 150% and the vault collateralization is below 150%).
+The Stablecoin creator returns the loan inclusive interest rates and gets his collateral back. The process of the voluntary redemption is depicted in the figure.
 
-Figure 11: Compulsory Redemption Process of Under-collateralized Vault
+![](.gitbook/assets/Screen\_Shot\_2022-01-13\_at\_14.53.54.png)
 
-13
+The processes of the forced redemption are depicted in the figure (vault collateralization is below 110%) and (overall collateralization of the Protocol is below 150% and the vault collateralization is below 150%).
 
-Algorithm 1: Algorithm for Compulsory Redemption of Under-collateralized Vault
+#### ![](.gitbook/assets/ForecedRedemptionForUCVault.png)
+
+#### Algorithm 1: Algorithm for Compulsory Redemption of Under-collateralized Vault
 
 Loss ←value of stablecoins owned by the User; if StabilityeP ool ≥ Loss then
 
@@ -50,7 +52,11 @@ end end
 
 end
 
-Algorithm 2: Algorithm for Compulsory Redemption Process of Overall Under- collateralization
+#### ![](.gitbook/assets/Screen\_Shot\_2021-12-25\_at\_11.04.14.png)
+
+#### Algorithm 2: Algorithm for Compulsory Redemption Process of Overall Under-
+
+collateralization
 
 Loss ←value of stablecoins owned by the User; if StabilityeP ool ≥ Loss then
 
@@ -83,7 +89,3 @@ Sell SSN tokens on DEX debt auction against sCCY; Amount of SSN tokens required 
 end end
 
 end
-
-14
-
-Figure 12: Compulsory Redemption Process of Overall Under-collateralization

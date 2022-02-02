@@ -1,10 +1,10 @@
 # Governance Structure
 
-## Governance Structure
-
 ## DAO
 
-The protocol consist of two token types, SSN (governance token) and sCCY (stable coin token). Both tokens are convertible between each other. The SSP will be governed by a Stability DAO. The governance token includes voting rights for the Stability DAO, which is responsible for the monetary policy of SSP. Governance is exercised by way of voting. The voting mechanism will have a diversified system, relying in the base layer on a the lack of objection to be sufficient for an issue to pass if the Stability Advisory Committee were asked for advice ( e.g. if a specific voting topic were to be consulted with the Stability Advisory Committee and did not attract a sufficiently large quorum above 5 The founding team will not have specific powers beyond their stake and the power to nominate 3 members to the Stability Advisory Committee. The authority of the founding team will otherwise rely on its belivability by contribution while the formal role of the founders will be of representational character without a veto or similar special control rights ensuring the decentralized nature of the protocol.
+The protocol consist of two token types, SSN (governance token) and sCCY (stable coin token). Both tokens are convertible between each other. The SSP will be governed by a Stability DAO. The governance token includes voting rights for the Stability DAO, which is responsible for the monetary policy of SSP. Governance is exercised by way of voting. The voting mechanism will have a diversified system, relying in the base layer on a the lack of objection to be sufficient for an issue to pass if the Stability Advisory Committee were asked for advice ( e.g. if a specific voting topic were to be consulted with the Stability Advisory Committee and did not attract a sufficiently large quorum above 5.
+
+The founding team will not have specific powers beyond their stake and the power to nominate 3 members to the Stability Advisory Committee. The authority of the founding team will otherwise rely on its belivability by contribution while the formal role of the founders will be of representational character without a veto or similar special control rights ensuring the decentralized nature of the protocol.
 
 ## Stability Advisory Committee
 
